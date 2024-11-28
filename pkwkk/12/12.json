@@ -4,8 +4,8 @@
     "chart": {
       "progres": {
         "total": 25223,
-        "persen": 97.18,
-        "progres": 24511
+        "persen": 97.19,
+        "progres": 24513
       }
     },
     "table": {
@@ -37,8 +37,8 @@
         "1000190": 0,
         "progres": {
           "total": 671,
-          "persen": 94.93,
-          "progres": 637
+          "persen": 95.08,
+          "progres": 638
         },
         "status_progress": true
       },
@@ -260,8 +260,8 @@
         "1000242": 0,
         "progres": {
           "total": 617,
-          "persen": 98.54,
-          "progres": 608
+          "persen": 98.7,
+          "progres": 609
         },
         "status_progress": true
       },
@@ -401,7 +401,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 25223,
-    "progres": 24511
+    "progres": 24513
   },
-  "ts": "2024-11-28 23:30:00"
+  "ts": "2024-11-28 23:45:00"
 }
