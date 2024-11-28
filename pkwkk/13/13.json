@@ -4,8 +4,8 @@
     "chart": {
       "progres": {
         "total": 10846,
-        "persen": 99.81,
-        "progres": 10825
+        "persen": 99.82,
+        "progres": 10826
       }
     },
     "table": {
@@ -110,8 +110,8 @@
         "1000299": 0,
         "progres": {
           "total": 261,
-          "persen": 92.72,
-          "progres": 242
+          "persen": 93.1,
+          "progres": 243
         },
         "status_progress": true
       },
@@ -240,7 +240,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 10846,
-    "progres": 10825
+    "progres": 10826
   },
-  "ts": "2024-11-28 21:30:00"
+  "ts": "2024-11-28 23:30:00"
 }
