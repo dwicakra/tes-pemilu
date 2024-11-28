@@ -6,8 +6,8 @@
       "1000548": 0,
       "progres": {
         "total": 7908,
-        "persen": 99.22,
-        "progres": 7846
+        "persen": 99.6,
+        "progres": 7876
       }
     },
     "table": {
@@ -28,8 +28,8 @@
         "1000548": 0,
         "progres": {
           "total": 456,
-          "persen": 98.03,
-          "progres": 447
+          "persen": 99.34,
+          "progres": 453
         },
         "status_progress": true
       },
@@ -50,8 +50,8 @@
         "1000548": 0,
         "progres": {
           "total": 257,
-          "persen": 96.5,
-          "progres": 248
+          "persen": 97.28,
+          "progres": 250
         },
         "status_progress": true
       },
@@ -83,8 +83,8 @@
         "1000548": 0,
         "progres": {
           "total": 386,
-          "persen": 98.7,
-          "progres": 381
+          "persen": 99.22,
+          "progres": 383
         },
         "status_progress": true
       },
@@ -105,8 +105,8 @@
         "1000548": 0,
         "progres": {
           "total": 125,
-          "persen": 98.4,
-          "progres": 123
+          "persen": 99.2,
+          "progres": 124
         },
         "status_progress": true
       },
@@ -116,8 +116,8 @@
         "1000548": 0,
         "progres": {
           "total": 182,
-          "persen": 99.45,
-          "progres": 181
+          "persen": 100.0,
+          "progres": 182
         },
         "status_progress": true
       },
@@ -127,8 +127,8 @@
         "1000548": 0,
         "progres": {
           "total": 161,
-          "persen": 98.14,
-          "progres": 158
+          "persen": 100.0,
+          "progres": 161
         },
         "status_progress": true
       },
@@ -149,8 +149,8 @@
         "1000548": 0,
         "progres": {
           "total": 384,
-          "persen": 98.18,
-          "progres": 377
+          "persen": 99.48,
+          "progres": 382
         },
         "status_progress": true
       },
@@ -204,8 +204,8 @@
         "1000548": 0,
         "progres": {
           "total": 251,
-          "persen": 98.8,
-          "progres": 248
+          "persen": 99.6,
+          "progres": 250
         },
         "status_progress": true
       },
@@ -215,8 +215,8 @@
         "1000548": 0,
         "progres": {
           "total": 153,
-          "persen": 97.39,
-          "progres": 149
+          "persen": 98.69,
+          "progres": 151
         },
         "status_progress": true
       },
@@ -237,8 +237,8 @@
         "1000548": 0,
         "progres": {
           "total": 145,
-          "persen": 99.31,
-          "progres": 144
+          "persen": 100.0,
+          "progres": 145
         },
         "status_progress": true
       },
@@ -248,8 +248,8 @@
         "1000548": 0,
         "progres": {
           "total": 197,
-          "persen": 98.48,
-          "progres": 194
+          "persen": 98.98,
+          "progres": 195
         },
         "status_progress": true
       },
@@ -270,8 +270,8 @@
         "1000548": 0,
         "progres": {
           "total": 161,
-          "persen": 99.38,
-          "progres": 160
+          "persen": 100.0,
+          "progres": 161
         },
         "status_progress": true
       },
@@ -281,8 +281,8 @@
         "1000548": 0,
         "progres": {
           "total": 210,
-          "persen": 97.14,
-          "progres": 204
+          "persen": 97.62,
+          "progres": 205
         },
         "status_progress": true
       },
@@ -325,8 +325,8 @@
         "1000548": 0,
         "progres": {
           "total": 212,
-          "persen": 99.53,
-          "progres": 211
+          "persen": 100.0,
+          "progres": 212
         },
         "status_progress": true
       },
@@ -402,8 +402,8 @@
         "1000548": 0,
         "progres": {
           "total": 93,
-          "persen": 98.92,
-          "progres": 92
+          "persen": 100.0,
+          "progres": 93
         },
         "status_progress": true
       },
@@ -456,7 +456,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 7908,
-    "progres": 7846
+    "progres": 7876
   },
-  "ts": "2024-11-28 15:45:00"
+  "ts": "2024-11-28 22:45:00"
 }

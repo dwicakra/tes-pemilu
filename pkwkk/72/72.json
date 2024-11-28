@@ -4,8 +4,8 @@
     "chart": {
       "progres": {
         "total": 5496,
-        "persen": 98.42,
-        "progres": 5409
+        "persen": 99.33,
+        "progres": 5459
       }
     },
     "table": {
@@ -16,8 +16,8 @@
         "1001159": 0,
         "progres": {
           "total": 660,
-          "persen": 99.39,
-          "progres": 656
+          "persen": 99.7,
+          "progres": 658
         },
         "status_progress": true
       },
@@ -43,8 +43,8 @@
         "1001168": 0,
         "progres": {
           "total": 696,
-          "persen": 97.7,
-          "progres": 680
+          "persen": 98.56,
+          "progres": 686
         },
         "status_progress": true
       },
@@ -70,8 +70,8 @@
         "1001177": 0,
         "progres": {
           "total": 276,
-          "persen": 99.28,
-          "progres": 274
+          "persen": 100.0,
+          "progres": 276
         },
         "status_progress": true
       },
@@ -83,8 +83,8 @@
         "1001181": 0,
         "progres": {
           "total": 301,
-          "persen": 94.02,
-          "progres": 283
+          "persen": 99.34,
+          "progres": 299
         },
         "status_progress": true
       },
@@ -96,8 +96,8 @@
         "1001185": 0,
         "progres": {
           "total": 246,
-          "persen": 99.59,
-          "progres": 245
+          "persen": 100.0,
+          "progres": 246
         },
         "status_progress": true
       },
@@ -110,8 +110,8 @@
         "1001190": 0,
         "progres": {
           "total": 818,
-          "persen": 98.41,
-          "progres": 805
+          "persen": 99.27,
+          "progres": 812
         },
         "status_progress": true
       },
@@ -123,8 +123,8 @@
         "1001194": 0,
         "progres": {
           "total": 311,
-          "persen": 96.14,
-          "progres": 299
+          "persen": 97.11,
+          "progres": 302
         },
         "status_progress": true
       },
@@ -136,8 +136,8 @@
         "1001198": 0,
         "progres": {
           "total": 471,
-          "persen": 96.18,
-          "progres": 453
+          "persen": 98.73,
+          "progres": 465
         },
         "status_progress": true
       },
@@ -160,8 +160,8 @@
         "1001204": 0,
         "progres": {
           "total": 267,
-          "persen": 98.88,
-          "progres": 264
+          "persen": 99.25,
+          "progres": 265
         },
         "status_progress": true
       },
@@ -182,7 +182,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 5496,
-    "progres": 5409
+    "progres": 5459
   },
-  "ts": "2024-11-28 15:45:00"
+  "ts": "2024-11-28 23:15:00"
 }

@@ -6,8 +6,8 @@
       "1001401": 0,
       "progres": {
         "total": 215,
-        "persen": 72.09,
-        "progres": 155
+        "persen": 78.14,
+        "progres": 168
       }
     },
     "table": {
@@ -17,8 +17,8 @@
         "1001401": 0,
         "progres": {
           "total": 87,
-          "persen": 87.36,
-          "progres": 76
+          "persen": 88.51,
+          "progres": 77
         },
         "status_progress": true
       },
@@ -28,8 +28,8 @@
         "1001401": 0,
         "progres": {
           "total": 17,
-          "persen": 58.82,
-          "progres": 10
+          "persen": 70.59,
+          "progres": 12
         },
         "status_progress": true
       },
@@ -39,8 +39,8 @@
         "1001401": 0,
         "progres": {
           "total": 32,
-          "persen": 75.0,
-          "progres": 24
+          "persen": 84.38,
+          "progres": 27
         },
         "status_progress": true
       },
@@ -50,8 +50,8 @@
         "1001401": 0,
         "progres": {
           "total": 13,
-          "persen": 84.62,
-          "progres": 11
+          "persen": 100.0,
+          "progres": 13
         },
         "status_progress": true
       },
@@ -83,8 +83,8 @@
         "1001401": 0,
         "progres": {
           "total": 15,
-          "persen": 33.33,
-          "progres": 5
+          "persen": 40.0,
+          "progres": 6
         },
         "status_progress": true
       },
@@ -94,8 +94,8 @@
         "1001401": 0,
         "progres": {
           "total": 10,
-          "persen": 40.0,
-          "progres": 4
+          "persen": 50.0,
+          "progres": 5
         },
         "status_progress": true
       },
@@ -116,8 +116,8 @@
         "1001401": 0,
         "progres": {
           "total": 10,
-          "persen": 50.0,
-          "progres": 5
+          "persen": 80.0,
+          "progres": 8
         },
         "status_progress": true
       }
@@ -126,7 +126,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 215,
-    "progres": 155
+    "progres": 168
   },
-  "ts": "2024-11-28 15:30:07"
+  "ts": "2024-11-28 21:45:00"
 }

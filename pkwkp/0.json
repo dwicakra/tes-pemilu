@@ -4,8 +4,8 @@
         "chart": {
             "progres": {
                 "total": 429318,
-                "persen": 97.3,
-                "progres": 417744
+                "persen": 97.68,
+                "progres": 419351
             }
         },
         "table": {
@@ -16,7 +16,7 @@
                 "progres": {
                     "total": 9704,
                     "persen": 0,
-                    "progres": 9572
+                    "progres": 9621
                 },
                 "status_progress": true
             },
@@ -27,7 +27,7 @@
                 "progres": {
                     "total": 25223,
                     "persen": 0,
-                    "progres": 24353
+                    "progres": 24580
                 },
                 "status_progress": true
             },
@@ -38,7 +38,7 @@
                 "progres": {
                     "total": 10846,
                     "persen": 0,
-                    "progres": 10815
+                    "progres": 10826
                 },
                 "status_progress": true
             },
@@ -50,7 +50,7 @@
                 "progres": {
                     "total": 11480,
                     "persen": 0,
-                    "progres": 11373
+                    "progres": 11426
                 },
                 "status_progress": true
             },
@@ -61,7 +61,7 @@
                 "progres": {
                     "total": 6391,
                     "persen": 0,
-                    "progres": 6383
+                    "progres": 6387
                 },
                 "status_progress": true
             },
@@ -73,7 +73,7 @@
                 "progres": {
                     "total": 13206,
                     "persen": 0,
-                    "progres": 13119
+                    "progres": 13153
                 },
                 "status_progress": true
             },
@@ -95,7 +95,7 @@
                 "progres": {
                     "total": 13282,
                     "persen": 0,
-                    "progres": 13280
+                    "progres": 13282
                 },
                 "status_progress": true
             },
@@ -117,7 +117,7 @@
                 "progres": {
                     "total": 3327,
                     "persen": 0,
-                    "progres": 3321
+                    "progres": 3325
                 },
                 "status_progress": true
             },
@@ -142,7 +142,7 @@
                 "progres": {
                     "total": 73862,
                     "persen": 0,
-                    "progres": 73318
+                    "progres": 73470
                 },
                 "status_progress": true
             },
@@ -153,7 +153,7 @@
                 "progres": {
                     "total": 56812,
                     "persen": 0,
-                    "progres": 56775
+                    "progres": 56811
                 },
                 "status_progress": true
             },
@@ -165,7 +165,7 @@
                 "progres": {
                     "total": 60751,
                     "persen": 0,
-                    "progres": 60410
+                    "progres": 60490
                 },
                 "status_progress": true
             },
@@ -176,7 +176,7 @@
                 "progres": {
                     "total": 17231,
                     "persen": 0,
-                    "progres": 17161
+                    "progres": 17207
                 },
                 "status_progress": true
             },
@@ -199,7 +199,7 @@
                 "progres": {
                     "total": 8405,
                     "persen": 0,
-                    "progres": 8386
+                    "progres": 8401
                 },
                 "status_progress": true
             },
@@ -211,7 +211,7 @@
                 "progres": {
                     "total": 9877,
                     "persen": 0,
-                    "progres": 9470
+                    "progres": 9631
                 },
                 "status_progress": true
             },
@@ -223,7 +223,7 @@
                 "progres": {
                     "total": 10451,
                     "persen": 0,
-                    "progres": 10294
+                    "progres": 10360
                 },
                 "status_progress": true
             },
@@ -236,7 +236,7 @@
                 "progres": {
                     "total": 4446,
                     "persen": 0,
-                    "progres": 4426
+                    "progres": 4438
                 },
                 "status_progress": true
             },
@@ -247,7 +247,7 @@
                 "progres": {
                     "total": 7382,
                     "persen": 0,
-                    "progres": 7372
+                    "progres": 7378
                 },
                 "status_progress": true
             },
@@ -258,7 +258,7 @@
                 "progres": {
                     "total": 6274,
                     "persen": 0,
-                    "progres": 6115
+                    "progres": 6170
                 },
                 "status_progress": true
             },
@@ -270,7 +270,7 @@
                 "progres": {
                     "total": 1364,
                     "persen": 0,
-                    "progres": 1310
+                    "progres": 1318
                 },
                 "status_progress": true
             },
@@ -294,7 +294,7 @@
                 "progres": {
                     "total": 5496,
                     "persen": 0,
-                    "progres": 5417
+                    "progres": 5459
                 },
                 "status_progress": true
             },
@@ -305,7 +305,7 @@
                 "progres": {
                     "total": 14548,
                     "persen": 0,
-                    "progres": 14526
+                    "progres": 14547
                 },
                 "status_progress": true
             },
@@ -318,7 +318,7 @@
                 "progres": {
                     "total": 4611,
                     "persen": 0,
-                    "progres": 4590
+                    "progres": 4596
                 },
                 "status_progress": true
             },
@@ -344,7 +344,7 @@
                 "progres": {
                     "total": 2921,
                     "persen": 0,
-                    "progres": 2905
+                    "progres": 2919
                 },
                 "status_progress": true
             },
@@ -356,7 +356,7 @@
                 "progres": {
                     "total": 3301,
                     "persen": 0,
-                    "progres": 2836
+                    "progres": 2967
                 },
                 "status_progress": true
             },
@@ -369,7 +369,7 @@
                 "progres": {
                     "total": 2378,
                     "persen": 0,
-                    "progres": 2264
+                    "progres": 2317
                 },
                 "status_progress": true
             },
@@ -380,7 +380,7 @@
                 "progres": {
                     "total": 2023,
                     "persen": 0,
-                    "progres": 1483
+                    "progres": 1558
                 },
                 "status_progress": true
             },
@@ -391,7 +391,7 @@
                 "progres": {
                     "total": 1341,
                     "persen": 0,
-                    "progres": 1014
+                    "progres": 1093
                 },
                 "status_progress": true
             },
@@ -404,7 +404,7 @@
                 "progres": {
                     "total": 1089,
                     "persen": 0,
-                    "progres": 351
+                    "progres": 374
                 },
                 "status_progress": true
             },
@@ -417,7 +417,7 @@
                 "progres": {
                     "total": 2617,
                     "persen": 0,
-                    "progres": 324
+                    "progres": 341
                 },
                 "status_progress": true
             },
@@ -428,7 +428,7 @@
                 "progres": {
                     "total": 3429,
                     "persen": 0,
-                    "progres": 44
+                    "progres": 100
                 },
                 "status_progress": true
             },
@@ -442,7 +442,7 @@
                 "progres": {
                     "total": 1554,
                     "persen": 0,
-                    "progres": 1042
+                    "progres": 1111
                 },
                 "status_progress": true
             }
@@ -451,7 +451,7 @@
     "psu": "Reguler",
     "progres": {
         "total": 429318,
-        "progres": 417744
+        "progres": 419351
     },
     "ts": "2024-11-28 10:45:04"
 }

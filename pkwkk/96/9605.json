@@ -7,8 +7,8 @@
       "1001590": 0,
       "progres": {
         "total": 260,
-        "persen": 71.92,
-        "progres": 187
+        "persen": 77.31,
+        "progres": 201
       }
     },
     "table": {
@@ -31,8 +31,8 @@
         "1001590": 0,
         "progres": {
           "total": 20,
-          "persen": 50.0,
-          "progres": 10
+          "persen": 60.0,
+          "progres": 12
         },
         "status_progress": true
       },
@@ -55,8 +55,8 @@
         "1001590": 0,
         "progres": {
           "total": 16,
-          "persen": 37.5,
-          "progres": 6
+          "persen": 56.25,
+          "progres": 9
         },
         "status_progress": true
       },
@@ -67,8 +67,8 @@
         "1001590": 0,
         "progres": {
           "total": 9,
-          "persen": 33.33,
-          "progres": 3
+          "persen": 44.44,
+          "progres": 4
         },
         "status_progress": true
       },
@@ -79,8 +79,8 @@
         "1001590": 0,
         "progres": {
           "total": 17,
-          "persen": 76.47,
-          "progres": 13
+          "persen": 94.12,
+          "progres": 16
         },
         "status_progress": true
       },
@@ -139,8 +139,8 @@
         "1001590": 0,
         "progres": {
           "total": 9,
-          "persen": 11.11,
-          "progres": 1
+          "persen": 33.33,
+          "progres": 3
         },
         "status_progress": true
       },
@@ -151,8 +151,8 @@
         "1001590": 0,
         "progres": {
           "total": 12,
-          "persen": 16.67,
-          "progres": 2
+          "persen": 25.0,
+          "progres": 3
         },
         "status_progress": true
       },
@@ -295,8 +295,8 @@
         "1001590": 0,
         "progres": {
           "total": 9,
-          "persen": 66.67,
-          "progres": 6
+          "persen": 88.89,
+          "progres": 8
         },
         "status_progress": true
       }
@@ -305,7 +305,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 260,
-    "progres": 187
+    "progres": 201
   },
-  "ts": "2024-11-28 15:45:00"
+  "ts": "2024-11-28 23:00:00"
 }
