@@ -6,8 +6,8 @@
       "1000099": 0,
       "progres": {
         "total": 453,
-        "persen": 5.74,
-        "progres": 26
+        "persen": 6.18,
+        "progres": 28
       }
     },
     "table": {
@@ -199,8 +199,8 @@
         "1000099": 0,
         "progres": {
           "total": 10,
-          "persen": 50.0,
-          "progres": 5
+          "persen": 70.0,
+          "progres": 7
         },
         "status_progress": true
       },
@@ -375,7 +375,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 453,
-    "progres": 26
+    "progres": 28
   },
-  "ts": "2024-11-28 23:45:00"
+  "ts": "2024-11-29 00:15:00"
 }

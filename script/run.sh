@@ -3,6 +3,10 @@
 echo "Starting data scraping process..."
 
 # Run pkwkp scraper
+echo "Scraping DISTRICT data..."
+python scrap-district.py
+
+# Run pkwkp scraper
 echo "Scraping PKWKP data..."
 python scrap-pkwkp.py
 
